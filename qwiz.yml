@@ -1,0 +1,5 @@
+-
+    title: "Who Plays Which HIMYM Character?"
+    file: "people.csv"
+    front: "character"
+    back: "actor"
