@@ -1,5 +1,6 @@
 -
     title: "Who Plays Which HIMYM Character?"
+    description: "you're shown a character's name and you have to pick which of two actors is the one who plays them"
     file: "people.csv"
     front: "character"
     back: "actor"
