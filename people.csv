@@ -1,7 +1,7 @@
-key,actor,character
-1,"Neil Patrick Harris","Barney Stinson"
-2,"Cobie Smulders","Robin Scherbatsky"
-3,"Jason Segel","Marshall Eriksen"
-4,"Alyson Hannigan","Lily Aldrin"
-5,"Josh Radnor","Ted Mosby"
+key,actor,character,gender
+1,"Neil Patrick Harris","Barney Stinson","male"
+2,"Cobie Smulders","Robin Scherbatsky","female"
+3,"Jason Segel","Marshall Eriksen","male"
+4,"Alyson Hannigan","Lily Aldrin","female"
+5,"Josh Radnor","Ted Mosby","male"
 6,"John Radnor",
