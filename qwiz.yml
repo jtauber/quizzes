@@ -21,3 +21,4 @@
     description: "foo"
     file: "people.csv"
     back: "gender"
+    front: "front"
