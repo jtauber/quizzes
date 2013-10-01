@@ -18,7 +18,7 @@
     back: "character"
 -
     title: "HIMYM Character -> Gender"
-    description: "you're shown a gender and you have to pick which of two characters is that gender"
+    description: "foo"
     file: "people.csv"
     back: "gender"
     front: "character"
