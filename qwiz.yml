@@ -21,4 +21,3 @@
     description: "you're shown a character and you have to give the gender"
     file: "people.csv"
     back: "gender"
-    front: "character"
