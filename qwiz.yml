@@ -20,4 +20,5 @@
     title: "HIMYM Gender > Character"
     description: "you're shown a gender and you have to pick which of two characters is that gender"
     file: "people.csv"
-    front: "gender"
+    back: "gender"
+    front: "front"
